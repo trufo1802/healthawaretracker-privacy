@@ -1,0 +1,10 @@
+# This repository is PUBLIC. It exists only to host the privacy policy.
+# The app source tree lives in this same folder but must never be published.
+# Everything is ignored by default; the policy files are re-included below.
+
+*
+
+!.gitignore
+!privacy-policy.md
+!index.html
+!README.md
