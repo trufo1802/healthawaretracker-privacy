@@ -1,6 +1,6 @@
 # Privacy Policy for HealthAware
 
-Last updated: 2026-08-18
+Last updated: 2026-11-22
 
 HealthAware ("the App") is a personal health and fitness tracking app for logging calorie, exercise, sleep, and habit information.
 
@@ -16,6 +16,7 @@ HealthAware collects information you enter directly in the app, including:
 - Habit logs and reminder times
 - App preferences (for example: theme, units, and tracker settings)
 - Meal photos you take or choose, if you use the photo assist feature (see below)
+- Links you save in Focus Links, with their titles and groups (see below)
 
 We do not collect this information ourselves. It is stored on your device and we have no access to it.
 
@@ -67,6 +68,17 @@ Please note:
 - Once you paste that text into another app, the data is handled by that app under **its** privacy policy, not ours. If you paste health information into a third-party AI service, that service may store or process it.
 - You can read the text before pasting it, and you are free not to use these features at all.
 
+## Focus Links
+
+Focus Links lets you save specific YouTube videos, playlists, channels and websites and open them inside the App. The links you save, their titles and the groups you put them in are stored only on your device. They are not included in clipboard exports or in on-device AI advice.
+
+Because this feature shows content from other services, using it connects your device directly to them:
+
+- **YouTube (Google).** When you add a YouTube link, the App asks YouTube for its public title and thumbnail. Opening a channel loads its public list of recent videos from YouTube. Videos play in YouTube's own embedded player, which is loaded from YouTube and runs under [Google's Privacy Policy](https://policies.google.com/privacy). Google can see that a video is being played from your device, as it would for any embedded YouTube video. The player's cookies and storage are cleared when you close it.
+- **Websites you save.** When you add a website, the App loads the page once to read its title. A saved website opens in a browser inside the App, and the site handles your visit under its own privacy policy. If you sign in to a site there, its cookies are kept on your device so you stay signed in, as they would be in Safari.
+
+These connections go from your device to those services. Nothing passes through us, and the App does not record which links you open or for how long.
+
 ## Data Sharing
 
 - We do not sell your personal data.
@@ -75,7 +87,7 @@ Please note:
 
 ## Third-Party Services
 
-HealthAware does not include third-party analytics or advertising SDKs, and does not track you across apps or websites.
+HealthAware does not include third-party analytics or advertising SDKs, and does not track you across apps or websites. The only third-party content it loads is what you choose to open in Focus Links (see above).
 
 ## Your Choices
 
@@ -83,6 +95,7 @@ You can:
 
 - Edit or delete data inside the app
 - Turn habit reminders off at any time, in the app or in iOS Settings
+- Delete any saved Focus Link, or hide Focus Links from the home screen in Settings
 - Remove app data by deleting the app from your device (subject to iOS device backup settings you control)
 
 ## Children's Privacy
