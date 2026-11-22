@@ -110,4 +110,4 @@ We may update this Privacy Policy from time to time. Any updates will be posted 
 
 If you have questions about this Privacy Policy, contact:
 
-- Email: jaehoy8008@gmail.com
+- Email: redpilltherapy491@gmail.com
